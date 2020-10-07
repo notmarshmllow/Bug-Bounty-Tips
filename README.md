@@ -1,7 +1,7 @@
 # Bug-Bounty-Tips
 The Repository aims to provide maximum Tips posted by Great Bug Hunters on Social Media at one place.
 
-Here you will find cool tips amd tricks to find bugs.
+Here you will find cool tips and tricks to find bugs.
 
 These are some of the cool tips posted by Bug Hunters on Twitter and other Social Media Platforms.
 
