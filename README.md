@@ -14,5 +14,5 @@ you can contribute to the to community and this Repository with your creative mi
 All contributions are highly appreciated and all contributions to this Repository are always welcomed.
 
 
-`Note` : All of the images/content posted here are not owned by me. This images were posted by Bug Hunters / Penetration Testers on Social Media. This Repository aims to bring all Tips at one place.
+`Note` : All of the images/content posted here are not owned by me. These images were posted by Bug Hunters / Penetration Testers on Social Media. This Repository aims to bring all Tips at one place.
 
