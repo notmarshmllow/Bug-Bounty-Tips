@@ -8,10 +8,10 @@ These are some of the cool tips posted by Bug Hunters on Twitter and other Socia
 # As a beginner ...
 you can refer this tips and practice them on targets. EASY WINS !
 
-# As an Expert
+# As an Expert ...
 you can contribute to the to community and this Repository with your creative mindset and help others to learn and practice more and more.
 
 All contributions are highly appreciated and all contributions to this Repository are always welcomed.
 
 
-Note : All of the images/content posted here are not owned by me.
+`Note` : All of the images/content posted here are not owned by me.
